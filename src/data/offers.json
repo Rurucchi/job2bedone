@@ -1,0 +1,224 @@
+{
+  "offers": [
+    {
+      "title": "Développeur Full Stack",
+      "createdAt": "2023-06-15",
+      "description": "Nous recherchons un développeur Full Stack expérimenté pour rejoindre notre équipe dynamique. Vous serez responsable du développement et de la maintenance de nos applications web, en travaillant à la fois sur le front-end et le back-end.",
+      "contractType": "CDI",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Paris",
+      "salary": 50000
+    },
+    {
+      "title": "Assistant Marketing",
+      "createdAt": "2023-06-20",
+      "description": "Nous recherchons un assistant marketing créatif et motivé pour rejoindre notre équipe. Vous serez chargé d'assister nos responsables marketing dans la mise en œuvre de nos campagnes publicitaires, de l'analyse des données et de la gestion des médias sociaux.",
+      "contractType": "CDD",
+      "job": "Marketing",
+      "domain": "Publicité",
+      "location": "Lyon",
+      "salary": 35000
+    },
+    {
+      "title": "Ingénieur en génie civil",
+      "createdAt": "2023-06-25",
+      "description": "Nous recherchons un ingénieur en génie civil expérimenté pour rejoindre notre équipe de conception. Vous serez responsable de la planification, de la conception et de la supervision de projets de construction majeurs, en veillant à leur conformité aux réglementations en vigueur.",
+      "contractType": "CDI",
+      "job": "Génie civil",
+      "domain": "Construction",
+      "location": "Marseille",
+      "salary": "45 000 € - 55 000 € par an"
+    },
+    {
+      "title": "Assistant RH",
+      "createdAt": "2023-06-18",
+      "description": "Nous recherchons un assistant RH compétent pour rejoindre notre équipe. Vous serez responsable de la gestion des dossiers des employés, du recrutement initial et de l'organisation des formations internes.",
+      "contractType": "CDD",
+      "job": "Ressources humaines",
+      "domain": "Administration",
+      "location": "Lille",
+      "salary": 30000
+    },
+    {
+      "title": "Développeur Mobile",
+      "createdAt": "2023-06-22",
+      "description": "Nous recherchons un développeur mobile passionné pour rejoindre notre équipe de développement. Vous serez chargé de créer des applications mobiles de haute qualité en utilisant les technologies les plus récentes.",
+      "contractType": "CDI",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Toulouse",
+      "salary": 55000
+    },
+    {
+      "title": "Chef de Projet",
+      "createdAt": "2023-06-26",
+      "description": "Nous recherchons un chef de projet expérimenté pour diriger nos initiatives clés. Vous serez responsable de la planification, de la coordination et de la réalisation réussie des projets, en veillant à ce qu'ils respectent les délais, le budget et les objectifs de qualité.",
+      "contractType": "Freelance",
+      "job": "Management",
+      "domain": "Consulting",
+      "location": "Bordeaux",
+      "salary": 60000
+    },
+    {
+      "title": "Développeur Front-End",
+      "createdAt": "2023-06-24",
+      "description": "Nous recherchons un développeur Front-End créatif pour rejoindre notre équipe. Vous serez responsable de la conception et de la mise en œuvre des interfaces utilisateur, en travaillant en étroite collaboration avec les designers et les développeurs back-end.",
+      "contractType": "Alternance",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Nantes",
+      "salary": 25000
+    },
+    {
+      "title": "Analyste Financier",
+      "createdAt": "2023-06-23",
+      "description": "Nous recherchons un analyste financier qualifié pour fournir une analyse approfondie des performances financières de l'entreprise. Vous serez responsable de la collecte et de l'interprétation des données financières, ainsi que de la préparation de rapports et de recommandations.",
+      "contractType": "Interim",
+      "job": "Finance",
+      "domain": "Banque",
+      "location": "Strasbourg",
+      "salary": 45000
+    },
+    {
+      "title": "Designer Graphique",
+      "createdAt": "2023-06-21",
+      "description": "Nous recherchons un designer graphique talentueux pour créer des visuels percutants et des designs innovants. Vous serez responsable de la conception de supports de communication visuelle tels que des logos, des brochures, des affiches et des sites web.",
+      "contractType": "CDI",
+      "job": "Design",
+      "domain": "Arts",
+      "location": "Lyon",
+      "salary": 40000
+    },
+    {
+      "title": "Ingénieur Qualité",
+      "createdAt": "2023-06-28",
+      "description": "Nous recherchons un ingénieur qualité expérimenté pour garantir la conformité et l'amélioration continue de nos processus. Vous serez responsable de l'évaluation, de l'audit et de la mise en œuvre de normes de qualité élevées.",
+      "contractType": "CDI",
+      "job": "Qualité",
+      "domain": "Industrie",
+      "location": "Marseille",
+      "salary": 55000
+    },
+    {
+      "title": "Analyste des Données",
+      "createdAt": "2023-06-26",
+      "description": "Nous recherchons un analyste des données talentueux pour extraire des informations exploitables à partir de nos vastes ensembles de données. Vous serez responsable de l'analyse, de la modélisation et de la visualisation des données pour soutenir la prise de décision.",
+      "contractType": "Freelance",
+      "job": "Informatique",
+      "domain": "Data Science",
+      "location": "Paris",
+      "salary": 60000
+    },
+    {
+      "title": "Chargé de Clientèle",
+      "createdAt": "2023-06-24",
+      "description": "Nous recherchons un chargé de clientèle amical et compétent pour assurer la satisfaction de nos clients. Vous serez responsable de la gestion des demandes, des plaintes et de la fourniture d'un service client de haute qualité.",
+      "contractType": "CDD",
+      "job": "Service clientèle",
+      "domain": "Services",
+      "location": "Toulouse",
+      "salary": 30000
+    },
+    {
+      "title": "Développeur Back-End",
+      "createdAt": "2023-06-22",
+      "description": "Nous recherchons un développeur back-end passionné pour rejoindre notre équipe de développement. Vous serez responsable de la conception, de l'implémentation et de la maintenance des serveurs et des bases de données nécessaires à nos applications web.",
+      "contractType": "CDI",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Bordeaux",
+      "salary": 50000
+    },
+    {
+      "title": "Assistant Administratif",
+      "createdAt": "2023-06-21",
+      "description": "Nous recherchons un assistant administratif organisé pour soutenir nos activités quotidiennes. Vous serez responsable de la gestion des appels téléphoniques, de la planification des réunions et de la gestion des documents administratifs.",
+      "contractType": "Interim",
+      "job": "Administration",
+      "domain": "Services",
+      "location": "Lyon",
+      "salary": 25000
+    },
+    {
+      "title": "Architecte Logiciel",
+      "createdAt": "2023-06-20",
+      "description": "Nous recherchons un architecte logiciel expérimenté pour concevoir et développer des solutions logicielles robustes et évolutives. Vous serez responsable de la définition de l'architecture, des bonnes pratiques de développement et de la coordination des équipes de développement.",
+      "contractType": "CDI",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Strasbourg",
+      "salary": 70000
+    },
+    {
+      "title": "Consultant en Stratégie",
+      "createdAt": "2023-06-18",
+      "description": "Nous recherchons un consultant en stratégie créatif et analytique pour aider nos clients à développer des plans d'action efficaces. Vous serez responsable de l'analyse de marché, de la formulation de recommandations stratégiques et de la mise en œuvre de projets.",
+      "contractType": "Freelance",
+      "job": "Consulting",
+      "domain": "Services",
+      "location": "Nantes",
+      "salary": 60000
+    },
+    {
+      "title": "Ingénieur Mécanique",
+      "createdAt": "2023-06-17",
+      "description": "Nous recherchons un ingénieur mécanique talentueux pour concevoir et développer des systèmes mécaniques innovants. Vous serez responsable de la modélisation, de la simulation et de la validation des conceptions pour assurer des performances optimales.",
+      "contractType": "CDI",
+      "job": "Ingénierie",
+      "domain": "Industrie",
+      "location": "Lille",
+      "salary": 55000
+    },
+    {
+      "title": "Responsable Marketing Digital",
+      "createdAt": "2023-06-15",
+      "description": "Nous recherchons un responsable marketing digital dynamique pour diriger nos initiatives en ligne. Vous serez responsable de la stratégie digitale, de la gestion des campagnes publicitaires en ligne et de l'optimisation de la présence de notre marque sur les plateformes numériques.",
+      "contractType": "CDD",
+      "job": "Marketing",
+      "domain": "Publicité",
+      "location": "Marseille",
+      "salary": 50000
+    },
+    {
+      "title": "Développeur Python",
+      "createdAt": "2023-06-14",
+      "description": "Nous recherchons un développeur Python passionné pour rejoindre notre équipe de développement logiciel. Vous serez responsable de la conception, de l'implémentation et du test de nouvelles fonctionnalités en utilisant le langage de programmation Python.",
+      "contractType": "Freelance",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Paris",
+      "salary": 60000
+    },
+    {
+      "title": "Comptable",
+      "createdAt": "2023-06-12",
+      "description": "Nous recherchons un comptable expérimenté pour gérer nos activités financières et comptables. Vous serez responsable de la tenue des livres de comptes, de la préparation des états financiers et de la gestion des paiements et des factures.",
+      "contractType": "CDI",
+      "job": "Finance",
+      "domain": "Comptabilité",
+      "location": "Bordeaux",
+      "salary": 45000
+    },
+    {
+      "title": "Développeur Java",
+      "createdAt": "2023-06-10",
+      "description": "Nous recherchons un développeur Java compétent pour rejoindre notre équipe de développement logiciel. Vous serez responsable de la conception, de l'implémentation et du test de solutions basées sur le langage de programmation Java.",
+      "contractType": "Alternance",
+      "job": "Informatique",
+      "domain": "Technologie",
+      "location": "Lyon",
+      "salary": 30000
+    },
+    {
+      "title": "Graphiste",
+      "createdAt": "2023-06-08",
+      "description": "Nous recherchons un graphiste créatif pour concevoir des supports visuels attrayants et percutants. Vous serez responsable de la création de logos, d'images, de maquettes et de mises en page pour divers projets de communication.",
+      "contractType": "Interim",
+      "job": "Design",
+      "domain": "Arts",
+      "location": "Toulouse",
+      "salary": 35000
+    }
+  ]
+}
