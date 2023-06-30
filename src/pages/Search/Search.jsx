@@ -46,6 +46,7 @@ export default function Search() {
     setResultNumber(res.length);
     setJobId(res[1]);
     setLoaded(true);
+    console.log(res[0]);
   }, []);
 
   function searchJobs() {
@@ -53,6 +54,7 @@ export default function Search() {
     setJobList(res[0]);
     setJobId(res[1]);
     setResultNumber(res.length);
+    console.log(res[0]);
   }
 
   // for testing purpose
@@ -111,9 +113,7 @@ export default function Search() {
               <MenuItem value="data science">Data Science</MenuItem>
               <MenuItem value="publicité">Publicité</MenuItem>
               <MenuItem value="construction">Construction</MenuItem>
-              <MenuItem value="ressources humaines">
-                Ressources humaines
-              </MenuItem>
+              <MenuItem value="administration">Administration</MenuItem>
               <MenuItem value="consulting">Consulting</MenuItem>
               <MenuItem value="banque">Banque</MenuItem>
               <MenuItem value="arts">Arts</MenuItem>
