@@ -1,6 +1,9 @@
 import styles from "./styles.module.css";
-import { useParams } from "react-router-dom";
+import { useParams, Link } from "react-router-dom";
 import { useState } from "react";
+
+// logo
+import logo from "../../assets/logo.png";
 
 // mui
 import Button from "@mui/material/Button";
@@ -40,7 +43,9 @@ export default function JobPage() {
     <>
       <div className={styles.app}>
         <div className={styles.topBar}>
-          <img src="/public/logo.png" alt="logo" className={styles.logo} />
+          <Link to="/">
+            <img src={logo} alt="logo" className={styles.logo} />
+          </Link>
         </div>
         <div className={styles.body}>
           <div className={styles.head}>

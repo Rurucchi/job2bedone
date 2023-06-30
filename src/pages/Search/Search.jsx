@@ -1,5 +1,9 @@
 import { useState, useEffect } from "react";
 import styles from "./styles.module.css";
+import { Link } from "react-router-dom";
+
+// logo
+import logo from "../../assets/logo.png";
 
 // ui library
 import {
@@ -59,7 +63,14 @@ export default function Search() {
   return (
     <>
       <div className={styles.topBar}>
-        <img src="/public/logo.png" alt="logo" className={styles.logo} />
+        <Link to="/">
+          <img
+            src={logo}
+            alt="logo"
+            className={styles.logo}
+            draggable="false"
+          />
+        </Link>
         <TextField
           id="search"
           label="Search"
