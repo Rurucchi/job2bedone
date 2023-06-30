@@ -1,26 +1,71 @@
+.container {
+  width: 100%;
+}
 .card {
   display: flex;
+  width: 100%;
+  height: auto;
+  min-height: 130px;
   flex-direction: row;
-  justify-content: center;
+  justify-content: space-between;
+  padding: 15px;
   align-items: center;
-  border: white solid 1px;
-  border-radius: 15px;
+  border: rgb(190, 190, 190) solid 1px;
+  border-radius: 10px;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box; /* Firefox, other Gecko */
+  box-sizing: border-box; /* Opera/IE 8+ */
+  overflow: hidden;
 }
 
+/* info */
+
 .info {
+  width: 100%;
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: flex-start;
 }
 
+.basic {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.title {
+  font-size: 1.7em;
+}
+
+.time {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+
 .details {
-  width: 10%;
+  width: auto;
   height: 100%;
   display: flex;
   flex-direction: column;
 }
 
-.see-details {
+.specs {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  gap: 7px;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+/* details */
+
+.seeDetails {
   color: rgb(42, 161, 255);
 }
