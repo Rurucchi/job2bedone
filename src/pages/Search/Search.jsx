@@ -43,7 +43,7 @@ export default function Search() {
   useEffect(() => {
     const res = query(search, location, domain, contract);
     setJobList(res[0]);
-    setResultNumber(res.length);
+    setResultNumber(res[0].length);
     setJobId(res[1]);
     setLoaded(true);
     console.log(res[0]);
@@ -53,7 +53,7 @@ export default function Search() {
     let res = query(search, location, domain, contract);
     setJobList(res[0]);
     setJobId(res[1]);
-    setResultNumber(res.length);
+    setResultNumber(res[0].length);
     console.log(res[0]);
   }
 
