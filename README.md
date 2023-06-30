@@ -10,6 +10,8 @@ Dependencies list :
 
 - [Vite](https://vitejs.dev/)
 - [React](https://react.dev/)
+- [Material UI](https://mui.com/)
+- [React Router](https://reactrouter.com/en/main)
 
 Setup & run :
 
