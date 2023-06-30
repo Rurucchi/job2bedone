@@ -40,7 +40,7 @@ export default function JobPage() {
     <>
       <div className={styles.app}>
         <div className={styles.topBar}>
-          <img src="..\public\logo.png" alt="logo" className={styles.logo} />
+          <img src="/public/logo.png" alt="logo" className={styles.logo} />
         </div>
         <div className={styles.body}>
           <div className={styles.head}>

@@ -59,7 +59,7 @@ export default function Search() {
   return (
     <>
       <div className={styles.topBar}>
-        <img src="public\logo.png" alt="logo" className={styles.logo} />
+        <img src="/public/logo.png" alt="logo" className={styles.logo} />
         <TextField
           id="search"
           label="Search"
