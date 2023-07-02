@@ -1,9 +1,6 @@
 import { useState, useEffect } from "react";
 import styles from "./styles.module.css";
-import { Link } from "react-router-dom";
-
-// logo
-import logo from "../../assets/logo.png";
+import { useOutletContext } from "react-router-dom";
 
 // ui library
 import {
@@ -31,7 +28,7 @@ export default function Search() {
   const [resultNumber, setResultNumber] = useState(0);
 
   // input states
-  const [search, setSearch] = useState("");
+  const [search, setSearch] = useOutletContext();
   const [location, setLocation] = useState("");
   const [domain, setDomain] = useState("");
   const [contract, setContract] = useState("");
@@ -64,26 +61,6 @@ export default function Search() {
 
   return (
     <>
-      <div className={styles.topBar}>
-        <Link to="/">
-          <img
-            src={logo}
-            alt="logo"
-            className={styles.logo}
-            draggable="false"
-          />
-        </Link>
-        <TextField
-          id="search"
-          label="Search"
-          variant="outlined"
-          className={styles.searchBar}
-          value={search}
-          onChange={(e) => {
-            setSearch(e.target.value);
-          }}
-        />
-      </div>
       <div className={styles.body}>
         <div className={styles.filters}>
           <TextField

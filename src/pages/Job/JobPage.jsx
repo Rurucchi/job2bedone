@@ -42,11 +42,6 @@ export default function JobPage() {
   return (
     <>
       <div className={styles.app}>
-        <div className={styles.topBar}>
-          <Link to="/">
-            <img src={logo} alt="logo" className={styles.logo} />
-          </Link>
-        </div>
         <div className={styles.body}>
           <div className={styles.head}>
             <h1 className={styles.title}>{job.title}</h1>
